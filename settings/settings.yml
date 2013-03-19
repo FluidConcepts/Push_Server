@@ -2,6 +2,8 @@
 :sources:
   Alert:
     :poll_interval: 300
+  Emergency:
+    :poll_interval: 300
 
 :development:
   :licensefile: settings/license.key
